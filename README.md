@@ -2,7 +2,7 @@
 
 A simple and responsive calculator web application built using HTML, CSS, and JavaScript.
 
-![Calculator Screenshot](./screenshot.png)
+![Calculator Screenshot](./Screenshot.png)
 
 ## Features
 
