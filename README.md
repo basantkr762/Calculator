@@ -3,7 +3,7 @@
 A simple and responsive calculator web application built using HTML, CSS, and JavaScript.
 
 ![Calculator Screenshot](./Screenshot.png)
-
+![Calculator Screenshot](./Screenshot1.png)
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division
